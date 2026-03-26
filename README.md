@@ -95,6 +95,7 @@ This project demonstrates how machine learning can be applied to:
 
 ### 📌 Feel free to connect with me on LinkedIn and explore more projects on GitHub.
 LinkedIn : https://www.linkedin.com/in/soundharyaiyer09
+
 Github : https://github.com/Soundharya09
 
 ### If you like this project, feel free to ⭐ star it!!!!!
